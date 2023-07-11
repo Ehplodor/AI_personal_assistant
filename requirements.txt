@@ -1,0 +1,15 @@
+requests
+tk
+sounddevice
+numpy
+pydub
+scipy
+pygame
+openai
+espnet
+espnet_model_zoo
+elevenlabs
+espnet
+espnet_model_zoo
+soundfile
+pydub
